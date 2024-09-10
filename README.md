@@ -29,7 +29,7 @@ Projekt NBA Player Awards prediction służy do przewidywania najlepszych graczy
 1. **Klonowanie repozytorium**:
    ```bash
    git clone <https://github.com/danak212/WZUM-lab-project-v3>
-   cd <WZUM-lab-project-v2.1>
+   cd <WZUM-lab-project-v3>
    ```
 
 2. **Instalacja zależności**:
@@ -200,7 +200,7 @@ The NBA Player Awards prediction project is designed to predict the top players 
 1. **Cloning the repository**:
    ```bash
    git clone <https://github.com/danak212/WZUM-lab-project-v3>
-   cd <WZUM-lab-project-v2.1>
+   cd <WZUM-lab-project-v3>
    ```
 
 2. **Installing dependencies**:
