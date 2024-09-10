@@ -1,0 +1,8 @@
+matplotlib
+numpy
+scikit-learn~=1.5.1
+pandas~=2.2.2
+requests
+bs4~=0.0.2
+httpx~=0.27.0
+beautifulsoup4~=4.12.3
